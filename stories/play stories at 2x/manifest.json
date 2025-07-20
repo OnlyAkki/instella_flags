@@ -3,6 +3,7 @@
     {
       "id": "1",
       "title": "Play stories at 2x",
+      "flag_name": "stories video imperation",
       "description": "it helps to play stories at 2x speed ",
       "source": "abhii",
       "tags": ["stories"],
