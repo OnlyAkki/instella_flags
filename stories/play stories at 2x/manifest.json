@@ -1,0 +1,22 @@
+{
+  "flags": [
+    {
+      "id": "1",
+      "title": "Play stories at 2x",
+      "description": "it helps to play stories at 2x speed ",
+      "source": "abhii",
+      "tags": ["stories"],
+      "author": "Abhii",
+      "date_added": "2025-07-19",
+      "date_removed": null,
+      "options": {
+        "enable": true,
+        "enable_media": false,
+        "edit_media": true,
+        "favorite_media": true,
+        "is_redesigned_preview_enabled": true
+      }
+    }
+  
+  ]
+}
