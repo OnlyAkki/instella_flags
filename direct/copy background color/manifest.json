@@ -1,19 +1,19 @@
 {
   "flags": [
     {
-      "id": "72063",
-      "title": "Republic of India",
-      "description": "The national flag of India, also known as the Tiranga. It consists of three horizontal stripes: saffron, white (with the Ashoka Chakra), and green.",
+      "id": "1",
+      "title": "Copy background colour",
+      "description": "it helps in copying the bg colour ",
       "source": "abhii",
-      "tags": ["flag", "India", "national flag", "Tiranga", "Asia"],
-      "author": "instella_user",
+      "tags": ["direct"],
+      "author": "Abhii",
       "date_added": "2025-07-19",
-      "date_removed": null,
+      "date_removed": "2025-07-20",
       "options": {
-        "is_enabled": true,
-        "delete_media": false,
+        "is_disable": true,
+        "enable_media": false,
         "edit_media": true,
-        "favorite_media": false,
+        "favorite_media": true,
         "is_redesigned_preview_enabled": true
       }
     }
