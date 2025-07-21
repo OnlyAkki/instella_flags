@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "29",
+      "title": " move the username in center on direct ",
+      "flag_name":"navigation refresh android header direct is center",
+      "description":" Move your username in center of the direct ",
+      "source": "affan",
+      "tags": ["direct" ],
+      "author": "Abhii",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "navigation refresh android header direct is center" : true
+      }
+    }
+  
+  ]
+}
