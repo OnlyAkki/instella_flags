@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "26",
+      "title": "swipable tabs  ",
+      "flag_name":"navigation_refresh_android_enable_view_pager",
+      "description": swipeable tabs",
+      "source": "affan",
+      "tags": ["explore" ],
+      "author": "Abhii",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "navigation_refresh_android_enable_view_pager" : true
+      }
+    }
+  
+  ]
+}
