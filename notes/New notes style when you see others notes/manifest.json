@@ -11,8 +11,8 @@
       "date_added": "21-07-2025",
       "date_removed": null,
       "options": {
-        " notes music consumption ": true,
-        "album art variant  3":true 
+        " enable notes music consumption ": true,
+        " enable album art variant  3":true 
       }
     }
   
