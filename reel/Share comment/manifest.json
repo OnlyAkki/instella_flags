@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "14",
+      "title": "share the comment  ",
+      "flag_name": "reshare comments",
+      "description": "Now you can share the comment  ",
+      "source": "abhii",
+      "tags": ["comment" ],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        " reshare comments": true
+      }
+    }
+  
+  ]
+}
