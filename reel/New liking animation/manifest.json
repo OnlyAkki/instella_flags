@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "21",
+      "title": "new animation when liking something ",
+      "flag_name": "new double tap heart animation",
+      "description": new animation when liking something  ",
+      "source": "Abhii",
+      "tags": ["like" ],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "new double tap heart animation"  : true
+      }
+    }
+  
+  ]
+}
