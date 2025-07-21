@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "27",
+      "title": "mention group in comment  ",
+      "flag_name":" comment mention groups",
+      "description": "now you can mention group in comment",
+      "source": "affan",
+      "tags": ["comment" ],
+      "author": "Abhii",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "comment mention groups" : true
+      }
+    }
+  
+  ]
+}
