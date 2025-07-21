@@ -1,0 +1,20 @@
+{
+  "flags": [
+    {
+      "id": "10",
+      "title": "New notes style  ",
+      "flag_name": "notes music consumption",
+      "description": "new notes style when you see someone notes   ",
+      "source": "abhii",
+      "tags": ["note" ],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        " notes music consumption ": true
+        "album art variant = 3":true 
+      }
+    }
+  
+  ]
+}
