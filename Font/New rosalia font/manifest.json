@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "7",
+      "title": "New rosalia font ",
+      "flag_name": "enable_rosalia_font",
+      "description": "Added new font on your insta category   ",
+      "source": "abhii",
+      "tags": ["stories"],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "ienable_rosalia_font": true
+      }
+    }
+  
+  ]
+}
