@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "5",
+      "title": "manage your Chats folder  ",
+      "flag_name": "Igd android twinbox",
+      "description": "it's help to manage your chats   ",
+      "source": "abhii",
+      "tags": ["stories"],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "Igd android twinbox": true
+      }
+    }
+  
+  ]
+}
