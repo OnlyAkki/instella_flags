@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "20",
+      "title": "stories gallery cropping",
+      "flag_name": "stories gallery cropping",
+      "description": stories gallery cropping better view when cropping ",
+      "source": "nolyzinha",
+      "tags": ["reel" ],
+      "author": "swastik",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "stories gallery cropping" : true
+      }
+    }
+  
+  ]
+}
