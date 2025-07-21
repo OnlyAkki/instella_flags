@@ -2,16 +2,17 @@
   "flags": [
     {
       "id": "10",
-      "title": "New notes style  ",
+      "title": "New notes style",
       "flag_name": "notes music consumption",
-      "description": "new notes style when you see someone notes   ",
+      "description": "new notes style when you see someone notes ",
       "source": "abhii",
-      "tags": ["note" ],
+      "tags": ["notes"],
       "author": "Affan",
       "date_added": "21-07-2025",
       "date_removed": null,
       "options": {
-        " enable notes music consumption ": true
+        "enable": true,
+        "enable_media album art variant 2 ":true
       }
     }
   
