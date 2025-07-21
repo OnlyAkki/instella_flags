@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "4",
+      "title": "meta ai on direct ",
+      "flag_name": "meta ai direct enable inbox fab ",
+      "description": "adding meta ai on direct  ",
+      "source": "abhii",
+      "tags": ["stories"],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "meta ai direct enable inbox fab": true
+      }
+    }
+  
+  ]
+}
