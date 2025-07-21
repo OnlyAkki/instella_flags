@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "19",
+      "title": "resls and comment at same time",
+      "flag_name": "reels watch and comment",
+      "description": "watch reels and see the comments at same time  ",
+      "source": "abhii",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "reels watch and comment" : true
+      }
+    }
+  
+  ]
+}
