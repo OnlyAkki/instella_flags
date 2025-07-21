@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "11",
+      "title": "screenshot reshare",
+      "flag_name": " screenshot_reshare",
+      "description": "you click screenshot when watching reels you can directly share screenshot to your friends ",
+      "source": "abhii",
+      "tags": ["direct"],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "enable screenshot_reshare": true
+      }
+    }
+  
+  ]
+}
