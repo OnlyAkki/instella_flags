@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "18",
+      "title": "New style of grid",
+      "flag_name": "grid_peek_behavior_redesign",
+      "description": "when you hold on any post new style of grid is coming  ",
+      "source": "abhii",
+      "tags": ["ui " ],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "grid_peek_behavior_redesign" : true
+      }
+    }
+  
+  ]
+}
