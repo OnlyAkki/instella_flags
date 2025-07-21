@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "4",
+      "title": "Suggest song when posting story",
+      "flag_name": "stories creation suggested music ",
+      "description": "it help to suggest song when posting stories  ",
+      "source": "abhii",
+      "tags": ["stories"],
+      "author": "Abhii",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        "enable stories creation suggested music": true
+      }
+    }
+  
+  ]
+}
