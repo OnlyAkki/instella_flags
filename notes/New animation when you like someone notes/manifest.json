@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "8",
+      "title": "new animation when you like someone notes  ",
+      "flag_name": "notes music notes like animation",
+      "description": "New music animation when you like someone notes   ",
+      "source": "abhii",
+      "tags": ["notes"],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        " enable notes music notes like animation": true
+      }
+    }
+  
+  ]
+}
