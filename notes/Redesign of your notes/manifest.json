@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "15",
+      "title": "New menu of notes ",
+      "flag_name": "notes creation bundle",
+      "description": "redesign of your notes  ",
+      "source": "abhii",
+      "tags": [" notes " ],
+      "author": "Affan",
+      "date_added": "21-07-2025",
+      "date_removed": null,
+      "options": {
+        " notes creation bundle" : true
+      }
+    }
+  
+  ]
+}
