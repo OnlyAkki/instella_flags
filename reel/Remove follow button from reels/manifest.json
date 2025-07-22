@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "34",
+      "title": " remove follow button from reels ",
+      "flag_name":"android viewer disable follow button",
+      "description":" remove follow button from reels  ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "android viewer disable follow button" : true
+      }
+    }
+  
+  ]
+}
