@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "42",
+      "title": " different follow colour icon",
+      "flag_name":"plus icon color",
+      "description":" try different different colour on follow button ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "plus icon color" : true
+      }
+    }
+  
+  ]
+}
