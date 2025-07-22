@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "41",
+      "title": " remove thread icon from profile ",
+      "flag_name":"is ig to p92 app switcher enabled android",
+      "description":" remove thread icon  ",
+      "source": "affan",
+      "tags": ["ui" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "is ig to p92 app switcher enabled android" : true
+      }
+    }
+  
+  ]
+}
