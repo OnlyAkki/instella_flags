@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "37",
+      "title": " change old post icon into new plus icon",
+      "flag_name":"is_profile_creation_button_icon_swap_enabled",
+      "description":" Changing the posting icon   ",
+      "source": "affan",
+      "tags": ["Ui" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "is_profile_creation_button_icon_swap_enabled" : true
+      }
+    }
+  
+  ]
+}
