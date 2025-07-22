@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "47",
+      "title": " search icon in reels ",
+      "flag_name":"enable_search_icon_in_serp_mmc",
+      "description":"search bar in reels section  ",
+      "source": "affan",
+      "tags": ["explore" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "enable_search_icon_in_serp_mmc" : true
+      }
+    }
+  
+  ]
+}
