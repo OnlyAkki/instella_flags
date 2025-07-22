@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "39",
+      "title": " interested or not interested in reels  ",
+      "flag_name":"ig_android_ufi_ini",
+      "description":" interested or not interested icon in reels    ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "ig_android_ufi_ini" : true
+      }
+    }
+  
+  ]
+}
