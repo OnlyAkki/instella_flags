@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "32",
+      "title": " show the date reels was posted  ",
+      "flag_name":"timestamps reels",
+      "description":" now you can see reels realse time ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "timestamps reels" : true
+      }
+    }
+  
+  ]
+}
