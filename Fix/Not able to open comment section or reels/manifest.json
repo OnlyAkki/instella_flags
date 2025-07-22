@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "49",
+      "title": " not able to Open comment section and reels",
+      "flag_name":"reels_watch_and_comment ",
+      "description":" If someone is not able to open the comment section on reels or facing a crash issue while opening the comment section on reels. they can fix it by disabling this flag ",
+      "source": "affan",
+      "tags": ["reel & comment" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "reels_watch_and_comment"  :true
+      }
+    }
+  
+  ]
+}
