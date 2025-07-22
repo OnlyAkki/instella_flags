@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "46",
+      "title": " New design of saved tab",
+      "flag_name":"saved redesign enable all content redesign",
+      "description":"redesign of saved tab  ",
+      "source": "affan",
+      "tags": ["ui" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "saved redesign enable all content redesign" : true
+      }
+    }
+  
+  ]
+}
