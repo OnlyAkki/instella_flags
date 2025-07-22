@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "40",
+      "title": " auto scroll reel ",
+      "flag_name":"reels android hands free mode",
+      "description":" reels android hands free mode ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "reels android hands free mode" : true
+      }
+    }
+  
+  ]
+}
