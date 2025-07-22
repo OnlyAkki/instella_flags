@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "35",
+      "title": " enable note button in reels & feed ",
+      "flag_name":"ig4a content notes fbidv2 ufi in",
+      "description":" enable all flags  ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "ig4a content notes fbidv2 ufi in" : true
+      }
+    }
+  
+  ]
+}
