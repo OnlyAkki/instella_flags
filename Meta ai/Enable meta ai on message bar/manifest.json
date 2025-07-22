@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "36",
+      "title": " enable meta ai on message bar",
+      "flag_name":"igd metaai composer entrypoint",
+      "description":" get help with meta ai on chat   ",
+      "source": "affan",
+      "tags": ["chat" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "igd metaai composer entrypoint" : true
+      }
+    }
+  
+  ]
+}
