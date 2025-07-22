@@ -11,7 +11,7 @@
       "date_added": "22-07-2025",
       "date_removed": null,
       "options": {
-        "reels_watch_and_comment"  :true
+        "reels_watch_and_comment"  : false 
       }
     }
   
