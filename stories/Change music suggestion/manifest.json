@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "43",
+      "title": " change music suggestion ",
+      "flag_name":"stories creation suggested music variant",
+      "description":" set music variant 1 or 2   ",
+      "source": "affan",
+      "tags": ["storie" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "stories creation suggested music variant" : true
+      }
+    }
+  
+  ]
+}
