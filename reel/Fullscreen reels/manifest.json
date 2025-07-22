@@ -1,0 +1,21 @@
+{
+  "flags": [
+    {
+      "id": "48",
+      "title": " Fullscreen display reels",
+      "flag_name":"FORCE SCALING MODE FIT FOR CLIPS",
+      " flag_name":"SCROLLAWAY NAV ENABLED FOR REELS",
+      "description":"fir fullscreen display reels  ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "FORCE SCALING MODE FIT FOR CLIPS ": false,
+        "SCROLLAWAY NAV ENABLED FOR REELS ": true
+      }
+    }
+  
+  ]
+}
