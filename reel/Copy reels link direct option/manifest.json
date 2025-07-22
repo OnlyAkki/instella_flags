@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "33",
+      "title": " add the option to copy reel link ",
+      "flag_name":"channels  4th ufi is android copy link enabled",
+      "description":"  now you can copy reels link direct ",
+      "source": "affan",
+      "tags": ["reel" ],
+      "author": "Abhii",
+      "date_added": "22-07-2025",
+      "date_removed": null,
+      "options": {
+        "channels 4th ufi is android copy link enabled" : true
+      }
+    }
+  
+  ]
+}
