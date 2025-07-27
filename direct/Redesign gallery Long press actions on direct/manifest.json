@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "52",
+      "title": "redesign  gallery long press actions on direct",
+      "flag_name":"igd android gallery long press menu" ,
+      "description":" now you can change the action off gallery long press actions ",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "nolyzinhha",
+      "date_added": "27-07-2025",
+      "date_removed": null,
+      "options": {
+        "igd android gallery long press menu"  :true
+      }
+    }
+  
+  ]
+}
