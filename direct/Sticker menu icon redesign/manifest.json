@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "50",
+      "title": "sticker menu icon redesign ",
+      "flag_name":"is_android_stickers_redesign_enabled ",
+      "description":" sticker menu icon  redesign from circular to chip style ",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "nolyzinhha",
+      "date_added": "27-07-2025",
+      "date_removed": null,
+      "options": {
+        "is_android_stickers_redesign_enabled" :true
+      }
+    }
+  
+  ]
+}
