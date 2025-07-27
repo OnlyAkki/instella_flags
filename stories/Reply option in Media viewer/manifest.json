@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "54",
+      "title": "reply option in Media viewer ",
+      "flag_name":"igd android media viewer replies" ,
+      "description":" reply option in Media viewer ( sticker, gallery, voice)",
+      "source": "abhii",
+      "tags": ["storie" ],
+      "author": "nolyzinhha",
+      "date_added": "27-07-2025",
+      "date_removed": null,
+      "options": {
+        "igd android media viewer replies"  :true
+      }
+    }
+  
+  ]
+}
