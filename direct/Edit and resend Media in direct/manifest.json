@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "51",
+      "title": "edit and resend Media in direct",
+      "flag_name":"igd_android_media_edit ",
+      "description":" now you can edit and resend Media in direct ",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "nolyzinhha",
+      "date_added": "27-07-2025",
+      "date_removed": null,
+      "options": {
+        "igd_android_media_edit"  :true
+      }
+    }
+  
+  ]
+}
