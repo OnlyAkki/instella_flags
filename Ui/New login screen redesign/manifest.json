@@ -1,0 +1,20 @@
+{
+  "flags": [
+    {
+      "id": "63"  ,
+      "title": "new login screen redesign ",
+      "flag_name":"caa ig4a login fallback behavior" ,
+      "description":" new login screen redesign  ",
+      "source": "abhii",
+      "tags": ["Ui" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "Enable on sandbox "  :true,
+        "Open native aymh": true
+      }
+    }
+  
+  ]
+}
