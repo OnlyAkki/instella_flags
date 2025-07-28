@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "66"  ,
+      "title": "open post as reels ",
+      "flag_name":"feed_post_tap" ,
+      "description":" open posts as reels ",
+      "source": "abhii",
+      "tags": ["Ui" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "feed_post_tap"  :true
+      }
+    }
+  
+  ]
+}
