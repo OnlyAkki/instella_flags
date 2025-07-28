@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "68"   ,
+      "title": "upload effect ui redesign when creating a post    ",
+      "flag_name":"is_upload_effect_redesign_enabled" ,
+      "description":" New uploading design when posting a post ",
+      "source": "abhii",
+      "tags": ["Ui" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "is_upload_effect_redesign_enabled"  :true
+      }
+    }
+  
+  ]
+}
