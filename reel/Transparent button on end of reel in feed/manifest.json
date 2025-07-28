@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "67"   ,
+      "title": "transperant black overlay at reel end in feed  ",
+      "flag_name":"endcard impressions test watch more reels button primary styled" ,
+      "description":" transperant button on end of reel in feed ",
+      "source": "abhii",
+      "tags": ["feed" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "endcard impressions test watch more reels button primary styled"  :false 
+      }
+    }
+  
+  ]
+}
