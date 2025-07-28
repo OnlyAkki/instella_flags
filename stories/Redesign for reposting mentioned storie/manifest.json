@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "64"  ,
+      "title": "redesign for  reposting mentioned story ",
+      "flag_name":"stories mention reshare redesign" ,
+      "description":" new redesign for reposting mentioned storie ",
+      "source": "abhii",
+      "tags": ["storie" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "stories mention reshare redesign = enable all "  :true
+      }
+    }
+  
+  ]
+}
