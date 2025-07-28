@@ -9,8 +9,8 @@
           "copy": "follow icon center offsetset it to -10"
         },
         {
-          "name": "null
-          "copy": "null
+          "name": null
+          "copy": null
         }
       ],
       "description": "to fix wierd location icon of the following icon ",
