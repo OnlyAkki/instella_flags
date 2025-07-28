@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "61"  ,
+      "title": "increase or decrease  reels direct reshare size ",
+      "flag_name":"clips direct reshare size reshare width dp" ,
+      "description":"Now you can set the size of sharing reels in direct   ",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "clips direct reshare size reshare width dp= (value)"  :true
+      }
+    }
+  
+  ]
+}
