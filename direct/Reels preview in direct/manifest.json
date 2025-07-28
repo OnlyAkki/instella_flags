@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "56" ,
+      "title": " Reels preview in direct ",
+      "flag_name":"reels consumption v2" ,
+      "description":"reels preview in direct",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "nolyzinha",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "reels consumption v2"  :true
+      }
+    }
+  
+  ]
+}
