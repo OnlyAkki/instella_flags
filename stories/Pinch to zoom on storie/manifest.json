@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "58"  ,
+      "title": " pinch to zoom on story ",
+      "flag_name":"enable stories pinch to zoom" ,
+      "description":"Now you can zoom on stories  ",
+      "source": "abhii",
+      "tags": ["storie" ],
+      "author": "zain",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "enable stories pinch to zoom"  :true
+      }
+    }
+  
+  ]
+}
