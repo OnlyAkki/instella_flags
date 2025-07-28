@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "70"   ,
+      "title": " hidden  keyboard issue when opening message bar in stories ",
+      "flag_name":"avoid_duplicate_update_on_resume" ,
+      "description":" hidden keyboard issue when opening message bar in a stories  ",
+      "source": "abhii",
+      "tags": ["fix" ],
+      "author": "nolyzinha",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "avoid_duplicate_update_on_resume"  :true
+      }
+    }
+  
+  ]
+}
