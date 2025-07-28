@@ -1,0 +1,20 @@
+{
+  "flags": [
+    {
+      "id": "62"  ,
+      "title": "Autoplay for forwarded reels in direct  chats",
+      "flag_name":"full_autoplay_enabled_xma" ,
+      "description":" Autoplay reels in direct chats ",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "full_autoplay_enabled_xma"  :true,
+        "use_video_url_from_direct_thtead_response": false 
+      }
+    }
+  
+  ]
+}
