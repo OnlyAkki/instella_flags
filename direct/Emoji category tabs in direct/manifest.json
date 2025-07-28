@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "60"  ,
+      "title": " emoji category tabs in direct  ",
+      "flag_name":"igd android emoji category tabs" ,
+      "description":"emoji category tabs on direct  ",
+      "source": "abhii",
+      "tags": ["direct" ],
+      "author": "votsz",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "igd android emoji category tabs= enable all "  :true
+      }
+    }
+  
+  ]
+}
