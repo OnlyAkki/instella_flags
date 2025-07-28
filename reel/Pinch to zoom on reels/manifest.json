@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "59"  ,
+      "title": " pinch to zoom on reels ",
+      "flag_name":"ig4a reels pinch to zoom" ,
+      "description":"Now you can zoom on reels  ",
+      "source": "abhii",
+      "tags": ["reel" ],
+      "author": "zain",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "ig4a reels pinch to zoom = enable both "  :true
+      }
+    }
+  
+  ]
+}
