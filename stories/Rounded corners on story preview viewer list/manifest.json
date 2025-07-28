@@ -1,0 +1,19 @@
+{
+  "flags": [
+    {
+      "id": "57"  ,
+      "title": " Rounded corner on story preview viewer list",
+      "flag_name":"viewer list craft" ,
+      "description":"New rounded corners story preview viewer list ",
+      "source": "abhii",
+      "tags": ["storie" ],
+      "author": "nolyzinha",
+      "date_added": "28-07-2025",
+      "date_removed": null,
+      "options": {
+        "viewer list craft"  :true
+      }
+    }
+  
+  ]
+}
