@@ -1,14 +1,14 @@
 {
   "flags": [
     {
-      "id": "3",
+      "id": "03",
       "title": " Disabled Meta Ai  Button",
       "flag_name":"android_enable_meta_ai_fab",
       "description": "Disbale Meta icon from home screens  ",
       "source": "abhii",
       "tags": ["meta ai"],
       "author": "Affan",
-      "date_added": null,
+      "date_added": 30-07-2025,
       "date_removed": null,
       "options": {
         "enable android enable meta ai fab": false
